@@ -1,0 +1,10 @@
+---
+title: "My cool data science project where I make a md file from a rmd file"
+author: "Madison Chun"
+date: "2/11/2020"
+output: md_document
+---
+
+```{r}
+hist(rnorm(100))
+```
