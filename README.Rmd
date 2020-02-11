@@ -8,3 +8,7 @@ output: md_document
 ```{r}
 hist(rnorm(100))
 ```
+
+```{r}
+plot(rnorm(100),rpois(100,1))
+```
